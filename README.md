@@ -26,3 +26,5 @@
 -int : whole numbers , negative, positive, zero
 -float : values with decimal point values
 -complex
+
+## String in Detail
